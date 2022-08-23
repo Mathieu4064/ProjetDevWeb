@@ -1,0 +1,10 @@
+p{
+    color: blue;
+}
+body{
+    background-image: url("ImageSite/CodeBleu.png");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
